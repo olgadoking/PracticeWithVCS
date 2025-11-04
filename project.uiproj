@@ -1,0 +1,6 @@
+{
+  "Name": "PracticeVCS",
+  "ProjectType": "Process",
+  "Description": "Sample process to practice VCS",
+  "MainFile": "Main.xaml"
+}
